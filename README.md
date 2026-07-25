@@ -29,6 +29,9 @@ This project presents an end-to-end data analytics solution for a retail store c
 
 ---
 
+## 📊 Dashboard Preview
+![Retail Dashboard Preview](dashboard/dashboard_preview.png)
+
 ## 📂 Repository Organization
 ```text
 retail-store-analysis/
