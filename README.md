@@ -35,7 +35,7 @@ This project presents an end-to-end data analytics solution for a retail store c
 ---
 
 
-## 📂 Repository Organization
+##  Repository Organization
 ```text
 retail-store-analysis/
 │
