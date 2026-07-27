@@ -1,11 +1,11 @@
-# 🛒 Retail Store Sales & Customer Analytics
+#  Retail Store Sales & Customer Analytics
 
 ##  Executive Summary
 This project presents an end-to-end data analytics solution for a retail store chain. By processing multi-year transactional records, customer demographics, and product categories, the analysis uncovers core revenue drivers, customer spending segments, and inventory optimization opportunities.
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 ![Retail Dashboard Preview](dashboard/dashboard_preview.png)
 
 ---
