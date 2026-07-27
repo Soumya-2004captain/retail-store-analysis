@@ -1,23 +1,7 @@
 # 🛒 Retail Store Sales & Customer Analytics
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
-![SQL](https://img.shields.io/badge/SQL-MySQL-orange)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![Excel](https://img.shields.io/badge/Excel-Analysis-green)
-
 ##  Executive Summary
 This project presents an end-to-end data analytics solution for a retail store chain. By processing multi-year transactional records, customer demographics, and product categories, the analysis uncovers core revenue drivers, customer spending segments, and inventory optimization opportunities.
-
----
-
-##  Tech Stack
-
-- Python (Pandas, NumPy, Matplotlib)
-- SQL
-- Power BI
-- Microsoft Excel
-- Git & GitHub
 
 ---
 
